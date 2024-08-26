@@ -1,2 +1,2 @@
 # PanthApp
-theapp
+Passa Que É Teu
